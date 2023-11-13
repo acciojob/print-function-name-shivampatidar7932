@@ -1,7 +1,8 @@
 //your JS code here. If required.
-function AccioJob(); {
+function AccioJob() {
     alert("AccioJob");
 }
+
 
 // Example usage
 AccioJob();
